@@ -108,8 +108,8 @@ int main()
     HashTable hashTable;
 
     std::cout << "DATA STRUCTURES IA 3 - QUESTION 2\n"
-              << "Student: Prince Suresh Panchal\n"
-              << "PRN: 202501100060\n"
+              << "Student: Vishal Daregave\n"
+              << "PRN: 202501100056\n"
               << "Scenario: Mango Varieties\n"
               << "Personalization: v[i] = (60 + 13*i) % 100\n"
               << "Hash Function: h(key) = key % " << kTableSize << '\n'

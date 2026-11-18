@@ -1,7 +1,7 @@
 # Trace-Match Report
 
-**Student:** Prince Suresh Panchal
-**PRN:** 202501100060
+**Student:** Vishal Daregave
+**PRN:** 202501100056
 **Subject:** Data Structures
 **Project:** Internal Activity 3 – Question 2
 
@@ -48,8 +48,8 @@ line's trailing space and the table's tab separators are omitted):
 
 ```text
 DATA STRUCTURES IA 3 - QUESTION 2
-Student: Prince Suresh Panchal
-PRN: 202501100060
+Student: Vishal Daregave
+PRN: 202501100056
 Scenario: Mango Varieties
 Personalization: v[i] = (60 + 13*i) % 100
 Hash Function: h(key) = key % 29

@@ -2,8 +2,8 @@
 
 ## Student details
 
-- **Name:** Prince Suresh Panchal
-- **PRN:** 202501100060
+- **Name:** Vishal Daregave
+- **PRN:** 202501100056
 - **Subject:** Data Structures
 - **Project:** Build-in-the-Open Lab Project – Hash Table with Recorded Development Log
 - **Language:** C++

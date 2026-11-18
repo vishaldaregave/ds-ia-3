@@ -1,7 +1,7 @@
 commit 5113c8ad091cd6aaa51f65a671b62cf23c1b45f0
-Author:     Prince Suresh Panchal <244523764+priince12@users.noreply.github.com>
+Author:     Vishal Daregave <244523764+priince12@users.noreply.github.com>
 AuthorDate: 2026-11-18 11:26:04 +0530
-Commit:     Prince Suresh Panchal <244523764+priince12@users.noreply.github.com>
+Commit:     Vishal Daregave <244523764+priince12@users.noreply.github.com>
 CommitDate: 2026-11-18 11:26:04 +0530
 
     Complete hash table output and submission documents
@@ -19,7 +19,7 @@ CommitDate: 2026-11-18 11:26:04 +0530
  8 files changed, 306 insertions(+), 309 deletions(-)
 
 commit e923d0a8e77c03912e40faa04ab59454d60d960d
-Author:     Prince Panchal <princespanchal2007@gmail.com>
+Author:     Vishal Daregave <princespanchal2007@gmail.com>
 AuthorDate: 2026-11-18 11:01:14 +0530
 Commit:     GitHub <noreply@github.com>
 CommitDate: 2026-11-18 11:01:14 +0530

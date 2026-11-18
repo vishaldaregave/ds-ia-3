@@ -1,6 +1,6 @@
 DATA STRUCTURES IA-3 – QUESTION 2
 Debugging log
-Student: Prince Suresh Panchal (PRN 202501100060)
+Student: Vishal Daregave (PRN 202501100056)
 
 Existing commit `e923d0a` — “Add files via upload”: The imported snapshot contained the original C++ hash table, dataset, executable, README, and text reports. I compiled and ran the original source with the requested warning flags; it inserted the 20 dataset values into the 29-slot table with 4 collisions and rejected the duplicate 60 and negative -10, but its statistics omitted the load factor. The existing `git_log.txt` was UTF-16 and described commits that do not exist in the actual one-commit Git history, so it was not used as evidence of development history.
 
